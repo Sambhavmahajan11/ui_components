@@ -1,0 +1,1 @@
+  mCurrentFocus=Window{ad2baab8 u0 com.android.browser/com.android.browser.BrowserActivity}
